@@ -44,6 +44,7 @@ I'm a data-focused student at Soochow University. I enjoy turning **statistics, 
 | [**taiwan-stock-sentiment-forecast**](https://github.com/Raymond-Chen-das/taiwan-stock-sentiment-forecast) | 台灣加權股價指數情緒空間預測模型 — PSO 橢球搜尋、LLM 語義分類、96 組 Grid Search 驗證 |
 | [**intelligent-transaction**](https://github.com/Raymond-Chen-das/intelligent-transaction) | 量化交易策略與回測分析，含多因子預測與動態選股（OLS / RF / XGBoost / NN） |
 | [**social-network-analysis**](https://github.com/Raymond-Chen-das/social-network-analysis) | SNA / ENA / DNA 三階段網路結構與社群偵測分析（NetworkX, Polars） |
+| [**garmin-multivariate-analysis**](https://github.com/Raymond-Chen-das/garmin-multivariate-analysis) | Garmin 穿戴資料多變量分析：PCA / 聚類 / ANOVA / 驗證性因子分析，含[互動式報告](https://raymond-chen-das.github.io/garmin-multivariate-analysis/)與資料保護設計 |
 | [**olist-customer-analysis**](https://github.com/Raymond-Chen-das/olist-customer-analysis) | Olist 巴西電商顧客回購行為分析（RFM、Logistic Regression） |
 | [**campus-help**](https://github.com/Raymond-Chen-das/campus-help) | 校園時間銀行互助平台，結合 Gemini API 智慧媒合（Streamlit） |
 | [**iPAS-LineBot**](https://github.com/Raymond-Chen-das/iPAS-LineBot) | LINE Bot 每日推播 iPAS AI 應用規劃師模擬題（GitHub Actions 排程） |
