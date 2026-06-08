@@ -18,7 +18,7 @@
 
 I'm in Soochow University's part-time M.S. in Data Science, applying **statistics, machine learning, and LLMs** to real problems — quantitative trading, market-sentiment forecasting, e-commerce analytics, social-network structure, and speech emotion recognition. Each project is built end-to-end, with care for the things people skip: **effect sizes, cross-validation, and leakage-free evaluation**.
 
-- 🎓 **碩士論文（代表作）**：LLM 多代理「專利 FTO 初篩」全端系統 — FastAPI + React、FAISS 向量檢索 + RAG、四專業代理 + Meta-Evaluator；200 次執行達 92.5% 行為自洽性。*原始碼非公開，可於面談展示。*
+- 🎓 **碩士論文（代表作）**：LLM 多代理「專利 FTO 初篩」全端系統 — FastAPI + React、FAISS 向量檢索 + RAG、四專業代理 + Meta-Evaluator。三層漸進式評估共 200 次受控執行：**50 次穩定性測試達 92.5% 系統自洽性**、120 次行為分析以 K-means + PCA 辨識代理共識群組、30 次資訊完整度探索。*原始碼非公開，可於面談展示。*
 - 🔭 興趣：量化交易 / 時空資料分析 / LLM·RAG 語義應用 / 多變量統計
 - 📫 聯絡：**raymond.chen.das@gmail.com**
 
@@ -73,5 +73,4 @@ I'm in Soochow University's part-time M.S. in Data Science, applying **statistic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raymond-Chen-das&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raymond-Chen-das&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+  <img src="https://github
