@@ -14,12 +14,12 @@
 
 ### 🧑‍💻 About Me
 
-東吳大學資料科學系**碩士在職專班**。我把**統計方法、機器學習與大型語言模型 (LLM)** 應用在真實問題上——從量化交易與股市情緒預測，到電商顧客行為、社群網路結構與語音情感運算。每個專案都是端到端獨立完成，並刻意在容易被忽略的地方加嚴：**效果量優先、交叉驗證、防資料洩漏**，誠實呈現模型的能與不能。
+**資料科學 × AI 應用工程**，底色是統計嚴謹度——**效果量優先、交叉驗證、防資料洩漏**，誠實面對模型的能與不能；在此之上做端到端落地，從 ML 建模到 LLM 多代理／RAG 系統。碩士期間以多個獨立專案橫跨電商、社群網路、語音情感、健康數據與金融等領域，驗證方法論的可遷移性。
 
-I'm in Soochow University's part-time M.S. in Data Science, applying **statistics, machine learning, and LLMs** to real problems — quantitative trading, market-sentiment forecasting, e-commerce analytics, social-network structure, and speech emotion recognition. Each project is built end-to-end, with care for the things people skip: **effect sizes, cross-validation, and leakage-free evaluation**.
+**Data Science × AI application engineering**, grounded in statistical rigor — **effect sizes first, cross-validation, leakage-free evaluation**, and honesty about what models can and can't do. On top of that, end-to-end delivery from ML modeling to LLM multi-agent / RAG systems. My master's projects span e-commerce, social networks, speech emotion, health data, and finance — evidence the methodology transfers across domains.
 
 - 🎓 **碩士論文（代表作）**：LLM 多代理「專利 FTO 初篩」全端系統 — FastAPI + React、FAISS 向量檢索 + RAG、四專業代理 + Meta-Evaluator。三層漸進式評估共 200 次受控執行：**50 次穩定性測試達 92.5% 系統自洽性**、120 次行為分析以 K-means + PCA 辨識代理共識群組、30 次資訊完整度探索。*原始碼非公開，可於面談展示。*
-- 🔭 興趣：量化交易 / 時空資料分析 / LLM·RAG 語義應用 / 多變量統計
+- 🔭 關注：讓統計嚴謹度與 LLM 系統工程互補，把「可解釋、可重現、防錯」的方法論用在真實落地
 - 📫 聯絡：**raymond.chen.das@gmail.com**
 
 ---
@@ -73,4 +73,3 @@ I'm in Soochow University's part-time M.S. in Data Science, applying **statistic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raymond-Chen-das&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github
