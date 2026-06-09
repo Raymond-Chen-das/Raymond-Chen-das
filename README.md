@@ -1,14 +1,12 @@
-# Hi, I'm Raymond Chen 👋
+# Hi, I'm Chia-Hsiang Chen 👋
 
 **Data Science · Machine Learning · LLM Applications**　｜　資料科學 · 機器學習 · LLM 應用
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raymond.chen.das@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Raymond-Chen-das)
 
 ---
 
 ## 🎓 碩士論文（代表作）— LLM 多代理「專利 FTO 初篩」全端系統
 
-讓技術人員以 **中文描述技術** → **跨語言檢索美國專利** → 進行 **FTO（Freedom to Operate）風險初篩**。在缺乏標準答案的高不確定情境下，以多代理協同與統計化的行為評估，把 LLM 系統的可靠性「量出來」。
+讓技術人員以 **中文描述技術** → **跨語言檢索美國專利** → 進行 **FTO（Freedom to Operate）風險初篩**。在缺乏標準答案的情境下，以非監督式學習與統計驗證行為評估，把 LLM 系統的量化評估。
 
 - **系統架構**：前端 React + TypeScript + Vite + Zustand；後端 FastAPI + WebSocket；核心引擎 FAISS 向量檢索（all-MiniLM-L6-v2）+ Multi-Agent + Meta-Evaluator + RAG，LLM 為 GPT-4o-mini；資料規模 10,000 筆美國 ICT 專利（2023–2025）。
 - **多代理設計**：四個差異化視角代理並行（保守風險 / 技術比較 / 商業可行 / 法律風險），Meta-Evaluator 以三層推理整合代理間分歧。
